@@ -8,12 +8,12 @@ int main(void)
   int zahl;
   // Dezimal Zuweisung
   zahl = 15;
-  cout << "Dezimal-Wert = " << zahl <<"\n";
+  cout << "Dezimal-Wert = " << zahl << endl;
   // Hex Zuweisung
   zahl = 0xf;
-  cout << "HEX: 0xF = " << zahl <<"\n";
+  cout << "HEX: 0xF = " << zahl << endl;
   // Binary Zuweisung
   zahl = 017;
-  cout << "BIN: 0F = " << zahl <<"\n";
+  cout << "BIN: 0F = " << zahl << endl;
   return(0); 
 }
