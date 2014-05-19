@@ -3,9 +3,9 @@
 Dieses Reprository demonstriert die Sprachelemente der
 objektorientierten Programmierung mit der Sprache C++ 
 
-## 1. Einstieg ##
+## Einstieg ##
 
-## 2. Grundlage ##
+## Grundlage ##
 	- Variablen
 	- Literale
 	- Ausgabe
@@ -14,22 +14,22 @@ objektorientierten Programmierung mit der Sprache C++
 	- Datentyp und Wertebereiche
 	- Arithmetik
 
-## 3. Programmablauf ##
+## Programmablauf ##
 	- Entscheidung
 	- Schleife
 
-## 4. Funktionen und Prozeduren ##
+## Funktionen und Prozeduren ##
 	- Funktionen
 	- main
 	- Module
 	- Überladen
 	
-## 5. Präprozessor ##
+## Präprozessor ##
 	- include/define
 	- bedingte Prä-Kompilierung
 	- line/undef
 	
-## 6. Komplexe Datentypen ##
+## Komplexe Datentypen ##
 	- Felder
 	- Multidimentionale Felder
 	- Char string/Cstring
@@ -42,7 +42,7 @@ objektorientierten Programmierung mit der Sprache C++
 	- Strukturen
 	- typedef/namespace
 	
-## 7. OOP ##
+## OOP ##
 	- Klassendefinition
 	- Methoden
 	- Konstruktor
